@@ -11,11 +11,11 @@ pastikan anda sudah mendownload dan install aplikasi termux versi terbaru
 buka aplikasi termux
 seperti biasa anda harus memasukan kode perintah dasar
 
-pkg update
-pkg upgrade
-pkg install php
-pkg install curl
-pkg install git
+pkg update,
+pkg upgrade,
+pkg install php,
+pkg install curl,
+pkg install git,
 
 setelah itu anda wajib memasukan kode perintah untuk mendownload script auto claim voucher gojek
 
@@ -23,9 +23,9 @@ git clone https://github.com/anakecil/gofood
 
 lalu masukan kode perintah untuk menjalankan script , kode ini untuk daftar dan claim voucher go food gojek
 
-cd gofood
+cd gofood,
 
-php tembak.php
+php tembak.php,
 
 setelah itu masukin nomor hp baru , yang belum di daftarkan di gojek
 lalu anda akan mendapatkan  sms kode opt dari pihak gojek
